@@ -30,4 +30,4 @@ This Python project fetches and visualizes real-time global COVID-19 statistics 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ronsha-coder/covid19-global-data-tracker.git
+   git clone https://github.com/ronsha-coder/covid19-global-data-tracker/blob/main/covid19_tracker.ipynb
